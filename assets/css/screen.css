@@ -509,10 +509,16 @@ body.nav-opened .site-wrapper {
     background: #222 no-repeat center center;
     background-size: cover;
     overflow: hidden;
+
+
 }
 
 .main-header .inner {
     width: 80%;
+
+    border: 1px solid white;
+    background-color: rgba(0, 0, 0 ,0.4);
+    padding: 10px;
 }
 
 .main-nav {
